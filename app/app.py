@@ -27,14 +27,14 @@ client = OpenAI(api_key=api_key)
 
 
 messages = [
-    {"role": "system", "content": "Hệ thống tư vấn giữa nhân viên tư vấn tại siêu thị điện máy Thế giới di động và An Phát PC. Chỉ sử dụng những thông tin được cho trong context"},
+    {"role": "system", "content": "Hệ thống tư vấn giữa nhân viên tư vấn laptop tại siêu thị điện máy Thế giới di động và An Phát PC. Chỉ sử dụng những thông tin được cho trong context. Cần đưa ra đường link tham khảo và chỉ từ thegioididong.com và anphatpc.com.vn"},
 ]
 
 @app.post("/api/")
 async def get_openai_response(item: Text):
     messages.append({"role": "user", "content": item.text})
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-3.5-turbo-instruct-0914",
         messages=messages,
     )
     messages.append({"role": "assistant", "content": response.choices[0].message.content})
