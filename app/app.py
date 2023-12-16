@@ -10,11 +10,8 @@ class Text(BaseModel):
 
 app = FastAPI()
 
-app = FastAPI()
-
 origins = [
-    "https://langverse.minhtc.dev",  # Allow your frontend domain
-    # Add more origins if needed
+    "*",  # Allow all origins
 ]
 
 app.add_middleware(
