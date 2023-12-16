@@ -8,7 +8,7 @@ class Text(BaseModel):
 
 app = FastAPI()
 
-client = OpenAI(api_key='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')
+client = OpenAI(api_key='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')
 
 messages = [
     {"role": "system", "content": "Hệ thống tư vấn giữa nhân viên tư vấn tại siêu thị điện máy Thế giới di động và An Phát PC. Chỉ sử dụng những thông tin được cho trong context"},
