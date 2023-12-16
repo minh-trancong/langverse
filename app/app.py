@@ -34,7 +34,7 @@ messages = [
 async def get_openai_response(item: Text):
     messages.append({"role": "user", "content": item.text})
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo-instruct-0914",
+        model="gpt-3.5-turbo",
         messages=messages,
     )
     messages.append({"role": "assistant", "content": response.choices[0].message.content})
