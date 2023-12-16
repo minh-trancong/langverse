@@ -1,0 +1,296 @@
+{
+  "total": "6",
+  "list": [
+    {
+      "id": "46004",
+      "productId": "46004",
+      "priceUnit": "chi\u1ebfc",
+      "marketPrice": "22990000",
+      "price": "18990000",
+      "currency": "vnd",
+      "lastUpdate": "2023-12-14 17:59:59",
+      "warranty": "24 th\u00e1ng B\u1ea3o H\u00e0nh Qu\u1ed1c T\u1ebf (Pin 12 Th\u00e1ng), \u0110\u1ed5i m\u1edbi trong 15 ng\u00e0y",
+      "productName": "Laptop ASUS TUF Gaming F15 FX506HE-HN377W (Intel Core i7-11800H | 8GB | 512GB | RTX 3050Ti | 15.6 inch FHD 144 Hz | Win 11 | \u0110en)",
+      "productSummary": "CPU: Intel Core i7-11800H (upto 4.60GHz, 24MB)\r\nRAM: 8GB DDR4-3200 SO-DIMM (2 khe, t\u1ed1i \u0111a 32GB)\r\n\u1ed4 c\u1ee9ng: 512GB PCIe 3.0 NVMe M.2 SSD\r\nVGA: NVIDIA\u00ae GeForce RTX\u2122 3050 Ti 4GB GDDR6\r\nM\u00e0n h\u00ecnh: 15.6inch FHD(1920x1080) IPS 144Hz, 62.5% SRGB\r\nPin: 3Cell, 48WHrs\r\nC\u00e2n n\u1eb7ng: 2.30 kg\r\nM\u00e0u s\u1eafc: \u0110en\r\nT\u00ednh n\u0103ng: \u0110\u00e8n n\u1ec1n b\u00e0n ph\u00edm \r\nOS:  Windows 11 Home",
+      "package_accessory": "0",
+      "productImage": {
+        "thum": "https://anphat.com.vn/media/product/50_46004_377w.jpg",
+        "small": "https://anphat.com.vn/media/product/75_46004_377w.jpg",
+        "medium": "https://anphat.com.vn/media/product/120_46004_377w.jpg",
+        "large": "https://anphat.com.vn/media/product/250_46004_377w.jpg",
+        "original": "https://anphat.com.vn/media/product/46004_377w.jpg"
+      },
+      "imageCollection": [
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_46004_377w.jpg",
+            "small": "https://anphat.com.vn/media/product/75_46004_377w.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_46004_377w.jpg",
+            "large": "https://anphat.com.vn/media/product/250_46004_377w.jpg",
+            "original": "https://anphat.com.vn/media/product/46004_377w.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__4_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__4_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__4_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__4_.jpg",
+            "original": "https://anphat.com.vn/media/product/46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__4_.jpg"
+          },
+          "alt": "Laptop ASUS TUF Gaming F15 FX506HE-HN377W"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__3_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__3_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__3_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__3_.jpg",
+            "original": "https://anphat.com.vn/media/product/46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__3_.jpg"
+          },
+          "alt": "Laptop ASUS TUF Gaming F15 FX506HE-HN377W"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__2_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__2_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__2_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__2_.jpg",
+            "original": "https://anphat.com.vn/media/product/46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__2_.jpg"
+          },
+          "alt": "Laptop ASUS TUF Gaming F15 FX506HE-HN377W"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__5_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__5_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__5_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__5_.jpg",
+            "original": "https://anphat.com.vn/media/product/46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__5_.jpg"
+          },
+          "alt": "Laptop ASUS TUF Gaming F15 FX506HE-HN377W"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__1_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__1_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__1_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__1_.jpg",
+            "original": "https://anphat.com.vn/media/product/46004_laptop_asus_tuf_gaming_f15_fx506he_hn377w__1_.jpg"
+          },
+          "alt": "Laptop ASUS TUF Gaming F15 FX506HE-HN377W"
+        }
+      ],
+      "productUrl": "/laptop-asus-tuf-gaming-f15-fx506he-hn377w.html",
+      "brand": {
+        "id": "3",
+        "brand_index": "asus",
+        "name": "Asus",
+        "image": "https://anphat.com.vn/media/brand/asus.jpg",
+        "url": "/brand/asus"
+      },
+      "visit": "7841",
+      "review": {
+        "rate": "0",
+        "total": "0"
+      },
+      "comment": {
+        "rate": "0",
+        "total": "0"
+      },
+      "quantity": "32",
+      "productSKU": "NBAS1300",
+      "productModel": "",
+      "hasVAT": "1",
+      "condition": "",
+      "config_count": "0",
+      "specialOffer": {
+        "other": [
+          {
+            "id": 0,
+            "title": "\ud83c\udf81 <font size = 3pt> <font color =\"Crimson\"><b>B\u1ed9 qu\u00e0 t\u1eb7ng bao g\u1ed3m:</b></font></font>\r\n  \u2726 Balo Laptop AnPhatpc (TUNB0097)\r\n  \u2726 Chu\u1ed9t kh\u00f4ng d\u00e2y Konig KM919 (MUKM0021)\r\n  \u2726 Kh\u00f4ng \u00c1p d\u1ee5ng QRcode.\r\n\ud83c\udf81 <font size = 3pt><font color =\"Crimson\"><b>\u01afu \u0111\u00e3i mua k\u00e8m gi\u00e1 h\u1ea5p d\u1eabn:</b></font></font> \r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 50% khi mua t\u00fai ch\u1ed1ng s\u1ed1c HP 14-15,6\" cao c\u1ea5p<a href=\"https://www.anphatpc.com.vn/tui-chong-soc-cao-cap-hp-carry-sleeve-15.6-quot-black-3xd36aa.html\"> <font color=\"DodgerBlue\">Xem chi ti\u1ebft</font> </a>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 10% khi mua \u0111\u1ebf t\u1ea3n nhi\u1ec7t laptop<a href=\"https://www.anphatpc.com.vn/de-tan-nhiet-laptop.html\"> <font color=\"DodgerBlue\">Xem chi ti\u1ebft</font> </a>",
+            "type": "",
+            "thumbnail": "",
+            "cash_value": 0,
+            "quantity": 1,
+            "from_time": "",
+            "to_time": "",
+            "url": "",
+            "description": "",
+            "status": 1
+          }
+        ],
+        "all": [
+          {
+            "id": 0,
+            "title": "\ud83c\udf81 <font size = 3pt> <font color =\"Crimson\"><b>B\u1ed9 qu\u00e0 t\u1eb7ng bao g\u1ed3m:</b></font></font>\r\n  \u2726 Balo Laptop AnPhatpc (TUNB0097)\r\n  \u2726 Chu\u1ed9t kh\u00f4ng d\u00e2y Konig KM919 (MUKM0021)\r\n  \u2726 Kh\u00f4ng \u00c1p d\u1ee5ng QRcode.\r\n\ud83c\udf81 <font size = 3pt><font color =\"Crimson\"><b>\u01afu \u0111\u00e3i mua k\u00e8m gi\u00e1 h\u1ea5p d\u1eabn:</b></font></font> \r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 50% khi mua t\u00fai ch\u1ed1ng s\u1ed1c HP 14-15,6\" cao c\u1ea5p<a href=\"https://www.anphatpc.com.vn/tui-chong-soc-cao-cap-hp-carry-sleeve-15.6-quot-black-3xd36aa.html\"> <font color=\"DodgerBlue\">Xem chi ti\u1ebft</font> </a>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 10% khi mua \u0111\u1ebf t\u1ea3n nhi\u1ec7t laptop<a href=\"https://www.anphatpc.com.vn/de-tan-nhiet-laptop.html\"> <font color=\"DodgerBlue\">Xem chi ti\u1ebft</font> </a>",
+            "type": "",
+            "thumbnail": "",
+            "cash_value": 0,
+            "quantity": 1,
+            "from_time": "",
+            "to_time": "",
+            "url": "",
+            "description": "",
+            "status": 1
+          }
+        ]
+      },
+      "specialOfferGroup": [],
+      "productType": {
+        "isNew": 0,
+        "isHot": 0,
+        "isBestSale": 0,
+        "isSaleOff": 0,
+        "pre_order": 0
+      },
+      "bulk_price": [],
+      "thum_poster": "0",
+      "thum_poster_type": "",
+      "addon": [],
+      "variants": [],
+      "variant_option": [],
+      "extend": {
+        "showroom_price": "",
+        "showroom_price_from_time_date": "",
+        "showroom_price_from_time_minute": "00:00",
+        "showroom_price_to_time_date": "02-10-2023",
+        "showroom_price_to_time_minute": "00:00",
+        "combo_price": "",
+        "combo_price_from_time_date": "",
+        "combo_price_from_time_minute": "00:00",
+        "combo_price_to_time_date": "",
+        "combo_price_to_time_minute": "00:00",
+        "appay_price": "0",
+        "appay_price_from_time_date": "",
+        "appay_price_from_time_minute": "00:00",
+        "appay_price_to_time_date": "",
+        "appay_price_to_time_minute": "00:00"
+      },
+      "weight": 0,
+      "configurable": "0",
+      "component_count": "0",
+      "promotion_price": {
+        "price": "18990000",
+        "from_time": "1698944400",
+        "to_time": "1702861200"
+      },
+      "sale_rules": {
+        "price": "18990000",
+        "normal_price": "19490000",
+        "min_purchase": 1,
+        "max_purchase": "32",
+        "remain_quantity": "32",
+        "from_time": "1698944400",
+        "to_time": "1702861200",
+        "type": "promotion"
+      },
+      "deal_list": [],
+      "categories": [
+        {
+          "id": "395",
+          "catPath": ":395",
+          "name": "Laptop - Tablet - Mobile",
+          "url": "/may-tinh-xach-tay-laptop.html"
+        },
+        {
+          "id": "1006",
+          "catPath": ":1006:395",
+          "name": "Laptop Theo H\u00e3ng",
+          "url": "/laptop-theo-hang.html"
+        },
+        {
+          "id": "1058",
+          "catPath": ":1058:1006:395",
+          "name": "Laptop Asus",
+          "url": "/laptop-asus_dm1058.html"
+        },
+        {
+          "id": "1821",
+          "catPath": ":1821:1058:1006:395",
+          "name": "Asus TUF Gaming",
+          "url": "/asus-tuf-gaming-series_dm1821.html"
+        },
+        {
+          "id": "1611",
+          "catPath": ":1611:395",
+          "name": "Laptop Theo Nhu C\u1ea7u",
+          "url": "/tu-van-mua-laptop-chon-laptop-theo-nhu-cau_dm1611.html"
+        },
+        {
+          "id": "1614",
+          "catPath": ":1614:395",
+          "name": "Laptop Gaming",
+          "url": "/gaming-laptop.html"
+        },
+        {
+          "id": "1906",
+          "catPath": ":1906:1611:395",
+          "name": "Laptop \u0110\u1ed3 H\u1ecda",
+          "url": "/laptop-do-hoa.html"
+        },
+        {
+          "id": "1905",
+          "catPath": ":1905:2378:395",
+          "name": "Laptop Cho L\u1eadp Tr\u00ecnh Vi\u00ean",
+          "url": "/laptop-cho-lap-trinh-vien.html"
+        },
+        {
+          "id": "1684",
+          "catPath": ":1684:1614:395",
+          "name": "Laptop Gaming Asus",
+          "url": "/laptop-asus-gaming_dm1684.html"
+        },
+        {
+          "id": "1617",
+          "catPath": ":1617:1611:395",
+          "name": "Laptop Pin Tr\u00e2u",
+          "url": "/laptop-pin-trau_dm1617.html"
+        },
+        {
+          "id": "2213",
+          "catPath": ":2213:1611:395",
+          "name": "Laptop RTX 30 SERIES",
+          "url": "/laptop-dung-vga-geforce-rtx-30-series_dm2213.html"
+        },
+        {
+          "id": "2288",
+          "catPath": ":2288:2377:395",
+          "name": "Laptop Core i7",
+          "url": "/laptop-core-i7_dm2288.html"
+        },
+        {
+          "id": "2403",
+          "catPath": ":2403:2398:395",
+          "name": "Laptop Kho\u1ea3ng 15 inch",
+          "url": "/laptop-khoang-15-inch_dm2403.html"
+        },
+        {
+          "id": "1903",
+          "catPath": ":1903:1612:2378:395",
+          "name": "Laptop Cho Sinh Vi\u00ean Thi\u1ebft K\u1ebf \u0110\u1ed3 H\u1ecda",
+          "url": "/laptop-cho-sinh-vien-thiet-ke-do-hoa_dm1903.html"
+        },
+        {
+          "id": "1612",
+          "catPath": ":1612:2378:395",
+          "name": "Laptop Sinh Vi\u00ean",
+          "url": "/laptop-sinh-vien-gia-re_dm1612.html"
+        },
+        {
+          "id": "2565",
+          "catPath": ":2565:1821:1058:1006:395",
+          "name": "Laptop Asus TUF Gaming F15",
+          "url": "/laptop-asus-tuf-gaming-f15.html"
+        },
+        {
+          "id": "2409",
+          "catPath": ":2409:2408:395",
+          "name": "Laptop RTX 3050 / 3050Ti",
+          "url": "/laptop-rtx-3050.html"
+        }
+      ]
+    }
+  ]
+}

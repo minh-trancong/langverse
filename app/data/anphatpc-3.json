@@ -1,0 +1,448 @@
+{
+  "total": "3",
+  "list": [
+    {
+      "id": "44618",
+      "productId": "44618",
+      "priceUnit": "chi\u1ebfc",
+      "marketPrice": "27990000",
+      "price": "22990000",
+      "currency": "vnd",
+      "lastUpdate": "2023-12-11 11:33:47",
+      "warranty": "24 th\u00e1ng, Pin v\u00e0 S\u1ea1c b\u1ea3o h\u00e0nh 12 th\u00e1ng, \u0110\u1ed5i m\u1edbi trong 15 ng\u00e0y",
+      "productName": "Laptop Asus Zenbook 14 OLED UX3402VA-KM085W (Intel Core I5-1340P | 16GB | 512GB | Intel\u00a0Iris\u00a0Xe | 14 inch OLED WQXGA+ | Win 11 | Xanh)",
+      "productSummary": "CPU: Intel Core I5-1340P (upto 4.60 GHz, 12MB)\r\nRAM: 16GB LPDDR5 on board \r\n\u1ed4 c\u1ee9ng: 512GB M.2 NVMe\u2122 PCIe\u00ae 4.0 SSD\r\nVGA: Intel\u00a0Iris\u00a0Xe\u00a0Graphics\r\nM\u00e0n h\u00ecnh: 14.0 inch OLED WQXGA+(2880x1800) BEND GLARE NON-TOUCH,400NITS, DCI-P3:100%, 90HZ\r\nPin: 4 cell 75WHrs\r\nC\u00e2n n\u1eb7ng: 1.39 kg\r\nT\u00ednh n\u0103ng: Numpad, \u0110\u00e8n n\u1ec1n b\u00e0n ph\u00edm\r\nM\u00e0u s\u1eafc: Ponder Blue\r\nOS: Windows 11 Home\r\n",
+      "package_accessory": "0",
+      "productImage": {
+        "thum": "https://anphat.com.vn/media/product/50_44618_ux3402va_km085w.jpg",
+        "small": "https://anphat.com.vn/media/product/75_44618_ux3402va_km085w.jpg",
+        "medium": "https://anphat.com.vn/media/product/120_44618_ux3402va_km085w.jpg",
+        "large": "https://anphat.com.vn/media/product/250_44618_ux3402va_km085w.jpg",
+        "original": "https://anphat.com.vn/media/product/44618_ux3402va_km085w.jpg"
+      },
+      "imageCollection": [
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_ux3402va_km085w.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_ux3402va_km085w.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_ux3402va_km085w.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_ux3402va_km085w.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_ux3402va_km085w.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_1_battery.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_1_battery.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_1_battery.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_1_battery.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_1_battery.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_2__performance.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_2__performance.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_2__performance.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_2__performance.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_2__performance.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_3__display.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_3__display.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_3__display.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_3__display.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_3__display.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_4__connectivity.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_4__connectivity.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_4__connectivity.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_4__connectivity.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_4__connectivity.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_5__audio.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_5__audio.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_5__audio.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_5__audio.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_5__audio.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_6__keyboard.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_6__keyboard.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_6__keyboard.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_6__keyboard.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_6__keyboard.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_7__webcam.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_7__webcam.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_7__webcam.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_7__webcam.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_7__webcam.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_8__color.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_8__color.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_8__color.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_8__color.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_8__color.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_9__thin___light.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_9__thin___light.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_9__thin___light.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_9__thin___light.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_9__thin___light.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_10__highlighted_feature.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_10__highlighted_feature.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_10__highlighted_feature.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_10__highlighted_feature.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_10__highlighted_feature.jpg"
+          },
+          "alt": ""
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___5_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___5_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___5_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___5_.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___5_.jpg"
+          },
+          "alt": "Laptop Asus Zenbook 14 OLED UX3402VA-KM085W 90NB10G1-M003Z0"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___6_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___6_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___6_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___6_.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___6_.jpg"
+          },
+          "alt": "Laptop Asus Zenbook 14 OLED UX3402VA-KM085W 90NB10G1-M003Z0"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___4_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___4_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___4_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___4_.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___4_.jpg"
+          },
+          "alt": "Laptop Asus Zenbook 14 OLED UX3402VA-KM085W 90NB10G1-M003Z0"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___3_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___3_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___3_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___3_.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___3_.jpg"
+          },
+          "alt": "Laptop Asus Zenbook 14 OLED UX3402VA-KM085W 90NB10G1-M003Z0"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___1_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___1_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___1_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___1_.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___1_.jpg"
+          },
+          "alt": "Laptop Asus Zenbook 14 OLED UX3402VA-KM085W 90NB10G1-M003Z0"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___2_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___2_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___2_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___2_.jpg",
+            "original": "https://anphat.com.vn/media/product/44618_laptop_asus_zenbook_14_oled_ux3402va_km085w_90nb10g1_m003z0___2_.jpg"
+          },
+          "alt": "Laptop Asus Zenbook 14 OLED UX3402VA-KM085W 90NB10G1-M003Z0"
+        }
+      ],
+      "productUrl": "/laptop-asus-zenbook-14-oled-ux3402va-km085w.html",
+      "brand": {
+        "id": "3",
+        "brand_index": "asus",
+        "name": "Asus",
+        "image": "https://anphat.com.vn/media/brand/asus.jpg",
+        "url": "/brand/asus"
+      },
+      "visit": "8436",
+      "review": {
+        "rate": "0",
+        "total": "0"
+      },
+      "comment": {
+        "rate": "0",
+        "total": "0"
+      },
+      "quantity": "9",
+      "productSKU": "NBAS1257",
+      "productModel": "",
+      "hasVAT": "1",
+      "condition": "",
+      "config_count": "0",
+      "specialOffer": {
+        "other": [
+          {
+            "id": 0,
+            "title": "\ud83c\udf81 <font size = 3pt> <font color =\"Crimson\"><b>B\u1ed9 qu\u00e0 t\u1eb7ng bao g\u1ed3m:</b></font></font>\r\n\u2726T\u00fai ch\u1ed1ng s\u00f4c Asus ch\u00ednh h\u00e3ng (k\u00e8m m\u00e1y)\r\n\u2726 Balo AnPhatpc (TUNB0097)\r\n\u2726 Chu\u1ed9t kh\u00f4ng d\u00e2y Konig KM919 (MUKM0021)\r\n\u2726 Kh\u00f4ng \u00e1p d\u1ee5ng VNpay, VISA\r\n\u2726 \u01afu \u0111\u00e3i mua c\u00f9ng Loa SoundMax BLUETOOTH R-600 (loa di \u0111\u1ed9ng - \u0111\u00e8n led RBG)ch\u1ec9 v\u1edbi gi\u00e1 490.000 VN\u0110.\r\n\ud83c\udf81 <font size = 3pt><font color =\"Crimson\"><b>\u01afu \u0111\u00e3i mua k\u00e8m gi\u00e1 h\u1ea5p d\u1eabn:</b></font></font>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m 10% khi mua \u1ed5 c\u1eafm \u0111i\u1ec7n v\u00e0 ph\u1ee5 ki\u1ec7n<a href=\"https://www.anphatpc.com.vn/collection/o-dien-elpa\" target=\"_blank\"> <font color=\"DodgerBlue\">Xem chi ti\u1ebft</font> </a>\r\n\u2726 Gi\u1ea3m gi\u00e1 m\u00e0n h\u00ecnh l\u00ean t\u1edbi <span style=\"color: DodgerBlue\">1.000.000\u0111</span></a> khi mua c\u00f9ng m\u00e0n h\u00ecnh: <a href=\"https://www.anphatpc.com.vn/collection/khuyen-mai-khi-mua-cung-pcap\"target=\"_blank\"><span style=\"color: DodgerBlue\">Danh s\u00e1ch m\u00e0n h\u00ecnh xem t\u1ea1i \u0111\u00e2y </span></a>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 50% khi mua t\u00fai ch\u1ed1ng s\u1ed1c HP 14-15,6\" cao c\u1ea5p<a href=\"https://www.anphatpc.com.vn/tui-chong-soc-cao-cap-hp-carry-sleeve-15.6-quot-black-3xd36aa.html\"> <font color=\"DodgerBlue\">Xem chi ti\u1ebft</font> </a>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 10% khi mua \u0111\u1ebf t\u1ea3n nhi\u1ec7t laptop<a href=\"https://www.anphatpc.com.vn/de-tan-nhiet-laptop.html\"> <font color=\"DodgerBlue\">Xem chi ti\u1ebft</font> </a>",
+            "type": "",
+            "thumbnail": "",
+            "cash_value": 0,
+            "quantity": 1,
+            "from_time": "",
+            "to_time": "",
+            "url": "",
+            "description": "",
+            "status": 1
+          }
+        ],
+        "service": [
+          {
+            "id": "943",
+            "type": "service",
+            "product_id": "0",
+            "thumbnail": "promo_6d3e64d22041096fc0504fa393c64c0b.jpg",
+            "title": "T\u1eb7ng ngay b\u00e0n ph\u00edm/chu\u1ed9t kh\u00f4ng d\u00e2y ASUS Marshmallow",
+            "description": "\ud83c\udf81T\u1eb7ng ngay <b>B\u00e0n ph\u00edm ASUS Marshmallow KW100</b> ho\u1eb7c <b>Chu\u1ed9t kh\u00f4ng d\u00e2y ASUS Marshmallow MW100</b> khi mua c\u00e1c s\u1ea3n ph\u1ea9m laptop ASUS Zenbook & Vivobook series.<a href=\"https://www.anphatpc.com.vn/nam-moi-phai-toi-asus-moi-mo-hanh-trinh-moi.html\"><span style=\"color: blue\"> <b>Xem chi ti\u1ebft</b> </span></a>",
+            "cash_value": "0",
+            "cash_value_type": "number",
+            "quantity": "0",
+            "from_time": "1701104400",
+            "to_time": "1704042000",
+            "url": "",
+            "status": "1",
+            "valid_customer_group": [],
+            "type_name": "D\u1ecbch v\u1ee5"
+          }
+        ],
+        "all": [
+          {
+            "id": 0,
+            "title": "\ud83c\udf81 <font size = 3pt> <font color =\"Crimson\"><b>B\u1ed9 qu\u00e0 t\u1eb7ng bao g\u1ed3m:</b></font></font>\r\n\u2726T\u00fai ch\u1ed1ng s\u00f4c Asus ch\u00ednh h\u00e3ng (k\u00e8m m\u00e1y)\r\n\u2726 Balo AnPhatpc (TUNB0097)\r\n\u2726 Chu\u1ed9t kh\u00f4ng d\u00e2y Konig KM919 (MUKM0021)\r\n\u2726 Kh\u00f4ng \u00e1p d\u1ee5ng VNpay, VISA\r\n\u2726 \u01afu \u0111\u00e3i mua c\u00f9ng Loa SoundMax BLUETOOTH R-600 (loa di \u0111\u1ed9ng - \u0111\u00e8n led RBG)ch\u1ec9 v\u1edbi gi\u00e1 490.000 VN\u0110.\r\n\ud83c\udf81 <font size = 3pt><font color =\"Crimson\"><b>\u01afu \u0111\u00e3i mua k\u00e8m gi\u00e1 h\u1ea5p d\u1eabn:</b></font></font>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m 10% khi mua \u1ed5 c\u1eafm \u0111i\u1ec7n v\u00e0 ph\u1ee5 ki\u1ec7n<a href=\"https://www.anphatpc.com.vn/collection/o-dien-elpa\" target=\"_blank\"> <font color=\"DodgerBlue\">Xem chi ti\u1ebft</font> </a>\r\n\u2726 Gi\u1ea3m gi\u00e1 m\u00e0n h\u00ecnh l\u00ean t\u1edbi <span style=\"color: DodgerBlue\">1.000.000\u0111</span></a> khi mua c\u00f9ng m\u00e0n h\u00ecnh: <a href=\"https://www.anphatpc.com.vn/collection/khuyen-mai-khi-mua-cung-pcap\"target=\"_blank\"><span style=\"color: DodgerBlue\">Danh s\u00e1ch m\u00e0n h\u00ecnh xem t\u1ea1i \u0111\u00e2y </span></a>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 50% khi mua t\u00fai ch\u1ed1ng s\u1ed1c HP 14-15,6\" cao c\u1ea5p<a href=\"https://www.anphatpc.com.vn/tui-chong-soc-cao-cap-hp-carry-sleeve-15.6-quot-black-3xd36aa.html\"> <font color=\"DodgerBlue\">Xem chi ti\u1ebft</font> </a>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 10% khi mua \u0111\u1ebf t\u1ea3n nhi\u1ec7t laptop<a href=\"https://www.anphatpc.com.vn/de-tan-nhiet-laptop.html\"> <font color=\"DodgerBlue\">Xem chi ti\u1ebft</font> </a>",
+            "type": "",
+            "thumbnail": "",
+            "cash_value": 0,
+            "quantity": 1,
+            "from_time": "",
+            "to_time": "",
+            "url": "",
+            "description": "",
+            "status": 1
+          },
+          {
+            "id": "943",
+            "type": "service",
+            "product_id": "0",
+            "thumbnail": "promo_6d3e64d22041096fc0504fa393c64c0b.jpg",
+            "title": "T\u1eb7ng ngay b\u00e0n ph\u00edm/chu\u1ed9t kh\u00f4ng d\u00e2y ASUS Marshmallow",
+            "description": "\ud83c\udf81T\u1eb7ng ngay <b>B\u00e0n ph\u00edm ASUS Marshmallow KW100</b> ho\u1eb7c <b>Chu\u1ed9t kh\u00f4ng d\u00e2y ASUS Marshmallow MW100</b> khi mua c\u00e1c s\u1ea3n ph\u1ea9m laptop ASUS Zenbook & Vivobook series.<a href=\"https://www.anphatpc.com.vn/nam-moi-phai-toi-asus-moi-mo-hanh-trinh-moi.html\"><span style=\"color: blue\"> <b>Xem chi ti\u1ebft</b> </span></a>",
+            "cash_value": "0",
+            "cash_value_type": "number",
+            "quantity": "0",
+            "from_time": "1701104400",
+            "to_time": "1704042000",
+            "url": "",
+            "status": "1",
+            "valid_customer_group": [],
+            "type_name": "D\u1ecbch v\u1ee5"
+          }
+        ]
+      },
+      "specialOfferGroup": [],
+      "productType": {
+        "isNew": 0,
+        "isHot": 0,
+        "isBestSale": 0,
+        "isSaleOff": 0,
+        "pre_order": 0
+      },
+      "bulk_price": [],
+      "thum_poster": "0",
+      "thum_poster_type": "",
+      "addon": [],
+      "variants": [],
+      "variant_option": [],
+      "extend": {
+        "combo_price": "",
+        "showroom_price": "",
+        "showroom_price_from_time_date": "",
+        "showroom_price_from_time_minute": "00:00",
+        "showroom_price_to_time_date": "",
+        "showroom_price_to_time_minute": "00:00",
+        "combo_price_from_time_date": "",
+        "combo_price_from_time_minute": "00:00",
+        "combo_price_to_time_date": "",
+        "combo_price_to_time_minute": "00:00",
+        "appay_price": "0",
+        "appay_price_from_time_date": "",
+        "appay_price_from_time_minute": "00:00",
+        "appay_price_to_time_date": "",
+        "appay_price_to_time_minute": "00:00"
+      },
+      "weight": 0,
+      "configurable": "0",
+      "component_count": "0",
+      "promotion_price": {
+        "price": "22990000",
+        "from_time": "0",
+        "to_time": "1704070800"
+      },
+      "sale_rules": {
+        "price": "22990000",
+        "normal_price": "23590000",
+        "min_purchase": 1,
+        "max_purchase": "9",
+        "remain_quantity": "9",
+        "from_time": "0",
+        "to_time": "1704070800",
+        "type": "promotion"
+      },
+      "deal_list": [],
+      "categories": [
+        {
+          "id": "395",
+          "catPath": ":395",
+          "name": "Laptop - Tablet - Mobile",
+          "url": "/may-tinh-xach-tay-laptop.html"
+        },
+        {
+          "id": "1058",
+          "catPath": ":1058:1006:395",
+          "name": "Laptop Asus",
+          "url": "/laptop-asus_dm1058.html"
+        },
+        {
+          "id": "1610",
+          "catPath": ":1610:1058:1006:395",
+          "name": "Asus Zenbook",
+          "url": "/laptop-asus-zenbook_dm1610.html"
+        },
+        {
+          "id": "1611",
+          "catPath": ":1611:395",
+          "name": "Laptop Theo Nhu C\u1ea7u",
+          "url": "/tu-van-mua-laptop-chon-laptop-theo-nhu-cau_dm1611.html"
+        },
+        {
+          "id": "2295",
+          "catPath": ":2295:1611:395",
+          "name": "Laptop Intel Evo",
+          "url": "/laptop-intel-evo_dm2295.html"
+        },
+        {
+          "id": "1615",
+          "catPath": ":1615:1611:395",
+          "name": "Laptop Ultrabook Nh\u1ecf G\u1ecdn",
+          "url": "/laptop-nho-gon_dm1615.html"
+        },
+        {
+          "id": "2408",
+          "catPath": ":2408:395",
+          "name": "Laptop Theo C\u1ea5u H\u00ecnh VGA",
+          "url": "/laptop-theo-cau-hinh-vga.html"
+        },
+        {
+          "id": "2461",
+          "catPath": ":2461:2408:395",
+          "name": "VGA T\u00edch H\u1ee3p (intel UHD/Radeon Vega)",
+          "url": "/vga-tich-hop-intel-uhdredeon-vega.html"
+        },
+        {
+          "id": "2402",
+          "catPath": ":2402:2398:395",
+          "name": "Laptop Kho\u1ea3ng 14 inch",
+          "url": "/laptop-khoang-14-inch_dm2402.html"
+        },
+        {
+          "id": "2398",
+          "catPath": ":2398:395",
+          "name": "Laptop Theo K\u00edch Th\u01b0\u1edbc M\u00e0n",
+          "url": "/laptop-theo-kich-thuoc-man-hinh_dm2398.html"
+        },
+        {
+          "id": "2378",
+          "catPath": ":2378:395",
+          "name": "Laptop Theo Ng\u00e0nh Ngh\u1ec1",
+          "url": "/laptop-theo-nganh-nghe_dm2378.html"
+        },
+        {
+          "id": "1908",
+          "catPath": ":1908:2378:395",
+          "name": "Laptop Doanh Nh\u00e2n",
+          "url": "/laptop-doanh-nhan.html"
+        },
+        {
+          "id": "1006",
+          "catPath": ":1006:395",
+          "name": "Laptop Theo H\u00e3ng",
+          "url": "/laptop-theo-hang.html"
+        },
+        {
+          "id": "2485",
+          "catPath": ":2485:1611:395",
+          "name": "Laptop H\u1ecdc T\u1eadp V\u0103n Ph\u00f2ng",
+          "url": "/laptop-hoc-tap-van-phong.html"
+        },
+        {
+          "id": "2287",
+          "catPath": ":2287:2377:395",
+          "name": "Laptop Core i5",
+          "url": "/laptop-core-i5_dm2287.html"
+        },
+        {
+          "id": "2377",
+          "catPath": ":2377:395",
+          "name": "Laptop Theo C\u1ea5u H\u00ecnh CPU",
+          "url": "/laptop-theo-cau-hinh-cpu_dm2377.html"
+        },
+        {
+          "id": "1907",
+          "catPath": ":1907:2378:395",
+          "name": "Laptop Cho K\u1ebf To\u00e1n",
+          "url": "/laptop-cho-ke-toan.html"
+        },
+        {
+          "id": "2390",
+          "catPath": ":2390:2386:395",
+          "name": "Laptop T\u1eeb 20 - 25 Tri\u1ec7u",
+          "url": "/laptop-tu-20-25-trieu_dm2390.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "total": "8",
+  "list": [
+    {
+      "id": "43918",
+      "productId": "43918",
+      "priceUnit": "chi\u1ebfc",
+      "marketPrice": "17690000",
+      "price": "13490000",
+      "currency": "vnd",
+      "lastUpdate": "2023-12-05 10:11:51",
+      "warranty": "12 th\u00e1ng, \u0110\u1ed5i m\u1edbi trong 15 ng\u00e0y, D\u1ecbch v\u1ee5 giao nh\u1eadn t\u1ea1i n\u01a1i s\u1eed d\u1ee5ng c\u1ee7a HP",
+      "productName": "Laptop HP 14S-dq5100TU 7C0Q0PA (Core i5-1235U | 8GB | 256GB | Intel Iris Xe | 14 inch FHD | Win 11 | B\u1ea1c)",
+      "productSummary": "CPU: Intel Core i5-1235U (12MB, up to 4.40GHz)\r\nRAM: 8GB (2 x 4GB) DDR4-3200 MHz (2 khe, t\u1ed1i \u0111a 32GB)    \r\n\u1ed4 c\u1ee9ng: 256GB PCIe\u00ae NVMe\u2122 M.2 SSD\r\nVGA: Intel Iris Xe Graphics\r\nM\u00e0n h\u00ecnh: 14 inch FHD (1920 x 1080), micro-edge, anti-glare, 250 nits, 45% NTSC\r\nPin: 3Cell 41 WHrs\r\nC\u00e2n n\u1eb7ng: 1.46 kg\r\nM\u00e0u s\u1eafc: B\u1ea1c\r\nOS: Windows 11 Home SL",
+      "package_accessory": "0",
+      "productImage": {
+        "thum": "https://anphat.com.vn/media/product/50_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc.jpg",
+        "small": "https://anphat.com.vn/media/product/75_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc.jpg",
+        "medium": "https://anphat.com.vn/media/product/120_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc.jpg",
+        "large": "https://anphat.com.vn/media/product/250_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc.jpg",
+        "original": "https://anphat.com.vn/media/product/43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc.jpg"
+      },
+      "imageCollection": [
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc.jpg",
+            "small": "https://anphat.com.vn/media/product/75_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc.jpg",
+            "large": "https://anphat.com.vn/media/product/250_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc.jpg",
+            "original": "https://anphat.com.vn/media/product/43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc.jpg"
+          },
+          "alt": "Laptop HP 14S-dq5100TU 7C0Q0PA"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_43918_laptop_hp_14s_dq5100tu_7c0q0pa___5_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_43918_laptop_hp_14s_dq5100tu_7c0q0pa___5_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_43918_laptop_hp_14s_dq5100tu_7c0q0pa___5_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_43918_laptop_hp_14s_dq5100tu_7c0q0pa___5_.jpg",
+            "original": "https://anphat.com.vn/media/product/43918_laptop_hp_14s_dq5100tu_7c0q0pa___5_.jpg"
+          },
+          "alt": "Laptop HP 14S-dq5100TU 7C0Q0PA"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_43918_laptop_hp_14s_dq5100tu_7c0q0pa___3_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_43918_laptop_hp_14s_dq5100tu_7c0q0pa___3_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_43918_laptop_hp_14s_dq5100tu_7c0q0pa___3_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_43918_laptop_hp_14s_dq5100tu_7c0q0pa___3_.jpg",
+            "original": "https://anphat.com.vn/media/product/43918_laptop_hp_14s_dq5100tu_7c0q0pa___3_.jpg"
+          },
+          "alt": "Laptop HP 14S-dq5100TU 7C0Q0PA"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_43918_laptop_hp_14s_dq5100tu_7c0q0pa___4_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_43918_laptop_hp_14s_dq5100tu_7c0q0pa___4_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_43918_laptop_hp_14s_dq5100tu_7c0q0pa___4_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_43918_laptop_hp_14s_dq5100tu_7c0q0pa___4_.jpg",
+            "original": "https://anphat.com.vn/media/product/43918_laptop_hp_14s_dq5100tu_7c0q0pa___4_.jpg"
+          },
+          "alt": "Laptop HP 14S-dq5100TU 7C0Q0PA"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_43918_laptop_hp_14s_dq5100tu_7c0q0pa___2_.jpg",
+            "small": "https://anphat.com.vn/media/product/75_43918_laptop_hp_14s_dq5100tu_7c0q0pa___2_.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_43918_laptop_hp_14s_dq5100tu_7c0q0pa___2_.jpg",
+            "large": "https://anphat.com.vn/media/product/250_43918_laptop_hp_14s_dq5100tu_7c0q0pa___2_.jpg",
+            "original": "https://anphat.com.vn/media/product/43918_laptop_hp_14s_dq5100tu_7c0q0pa___2_.jpg"
+          },
+          "alt": "Laptop HP 14S-dq5100TU 7C0Q0PA"
+        },
+        {
+          "image": {
+            "thum": "https://anphat.com.vn/media/product/50_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc_33.jpg",
+            "small": "https://anphat.com.vn/media/product/75_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc_33.jpg",
+            "medium": "https://anphat.com.vn/media/product/120_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc_33.jpg",
+            "large": "https://anphat.com.vn/media/product/250_43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc_33.jpg",
+            "original": "https://anphat.com.vn/media/product/43918_laptop_hp_14s_dq5100tu_7c0q0pa_anphatpc_33.jpg"
+          },
+          "alt": ""
+        }
+      ],
+      "productUrl": "/laptop-hp-14s-dq5100tu-7c0q0pa.html",
+      "brand": {
+        "id": "5",
+        "brand_index": "hp",
+        "name": "HP",
+        "image": "https://anphat.com.vn/media/brand/hp.jpg",
+        "url": "/brand/hp"
+      },
+      "visit": "34239",
+      "review": {
+        "rate": "0",
+        "total": "0"
+      },
+      "comment": {
+        "rate": "5",
+        "total": "4"
+      },
+      "quantity": "213",
+      "productSKU": "NBHP0835",
+      "productModel": "",
+      "hasVAT": "1",
+      "condition": "",
+      "config_count": "0",
+      "specialOffer": {
+        "other": [
+          {
+            "id": 0,
+            "title": "\ud83c\udf81 <b><font color=\"red\"> G\u00f3i qu\u00e0 t\u1eb7ng tr\u1ecb gi\u00e1 1.000.000\u0111 bao g\u1ed3m :</font></b>\r\n\u2726 Tai nghe HP H2800 ch\u00ednh h\u00e3ng (TNKH0014)\r\n\u2726 Ba l\u00f4 An Pha\u0301t cho laptop (TUNB0097)\r\n\u2726 Chu\u1ed9t kh\u00f4ng d\u00e2y Konig KM919 (MUKM0021)\r\n\u2726 T\u00fai ch\u1ed1ng s\u1ed1c 14\"(TUNB0007)\r\n\u2726 B\u00e0n di chu\u1ed9t An Ph\u00e1t (PKKH1245)\r\n\ud83c\udf81 <b><font color=\"red\"> \u01afu \u0111\u00e3i mua k\u00e8m h\u1ea5p d\u1eabn </font></b>\r\n\u2726 H\u1ed7 tr\u1ee3 mua ram DDR4 Kingston 8GB DDR4 3200Mhz Notebook (RAKT0099) ch\u1ec9 v\u1edbi 500.000\u0111\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 m\u00e0n h\u00ecnh l\u00ean t\u1edbi <span style=\"color: red\"><b>1.000.000\u0111</span></b> khi mua c\u00f9ng m\u00e0n h\u00ecnh: <a href=\"https://www.anphatpc.com.vn/collection/khuyen-mai-khi-mua-cung-pcap\"><span style=\"color: red\"><b> Danh s\u00e1ch m\u00e0n h\u00ecnh xem t\u1ea1i \u0111\u00e2y </span></a></b>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 50% khi mua t\u00fai ch\u1ed1ng s\u1ed1c HP 14-15,6\" cao c\u1ea5p<a href=\"https://www.anphatpc.com.vn/tui-chong-soc-cao-cap-hp-carry-sleeve-15.6-quot-black-3xd36aa.html\"> <font color=\"Red\">Xem chi ti\u1ebft</font> </a>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 10% khi mua \u0111\u1ebf t\u1ea3n nhi\u1ec7t laptop<a href=\"https://www.anphatpc.com.vn/de-tan-nhiet-laptop.html\"> <font color=\"Red\">Xem chi ti\u1ebft</font> </a>",
+            "type": "",
+            "thumbnail": "",
+            "cash_value": 0,
+            "quantity": 1,
+            "from_time": "",
+            "to_time": "",
+            "url": "",
+            "description": "",
+            "status": 1
+          }
+        ],
+        "all": [
+          {
+            "id": 0,
+            "title": "\ud83c\udf81 <b><font color=\"red\"> G\u00f3i qu\u00e0 t\u1eb7ng tr\u1ecb gi\u00e1 1.000.000\u0111 bao g\u1ed3m :</font></b>\r\n\u2726 Tai nghe HP H2800 ch\u00ednh h\u00e3ng (TNKH0014)\r\n\u2726 Ba l\u00f4 An Pha\u0301t cho laptop (TUNB0097)\r\n\u2726 Chu\u1ed9t kh\u00f4ng d\u00e2y Konig KM919 (MUKM0021)\r\n\u2726 T\u00fai ch\u1ed1ng s\u1ed1c 14\"(TUNB0007)\r\n\u2726 B\u00e0n di chu\u1ed9t An Ph\u00e1t (PKKH1245)\r\n\ud83c\udf81 <b><font color=\"red\"> \u01afu \u0111\u00e3i mua k\u00e8m h\u1ea5p d\u1eabn </font></b>\r\n\u2726 H\u1ed7 tr\u1ee3 mua ram DDR4 Kingston 8GB DDR4 3200Mhz Notebook (RAKT0099) ch\u1ec9 v\u1edbi 500.000\u0111\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 m\u00e0n h\u00ecnh l\u00ean t\u1edbi <span style=\"color: red\"><b>1.000.000\u0111</span></b> khi mua c\u00f9ng m\u00e0n h\u00ecnh: <a href=\"https://www.anphatpc.com.vn/collection/khuyen-mai-khi-mua-cung-pcap\"><span style=\"color: red\"><b> Danh s\u00e1ch m\u00e0n h\u00ecnh xem t\u1ea1i \u0111\u00e2y </span></a></b>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 50% khi mua t\u00fai ch\u1ed1ng s\u1ed1c HP 14-15,6\" cao c\u1ea5p<a href=\"https://www.anphatpc.com.vn/tui-chong-soc-cao-cap-hp-carry-sleeve-15.6-quot-black-3xd36aa.html\"> <font color=\"Red\">Xem chi ti\u1ebft</font> </a>\r\n\u2726 \u01afu \u0111\u00e3i gi\u1ea3m gi\u00e1 10% khi mua \u0111\u1ebf t\u1ea3n nhi\u1ec7t laptop<a href=\"https://www.anphatpc.com.vn/de-tan-nhiet-laptop.html\"> <font color=\"Red\">Xem chi ti\u1ebft</font> </a>",
+            "type": "",
+            "thumbnail": "",
+            "cash_value": 0,
+            "quantity": 1,
+            "from_time": "",
+            "to_time": "",
+            "url": "",
+            "description": "",
+            "status": 1
+          }
+        ]
+      },
+      "specialOfferGroup": [],
+      "productType": {
+        "isNew": 1,
+        "isHot": 1,
+        "isBestSale": 1,
+        "isSaleOff": 0,
+        "pre_order": 0
+      },
+      "bulk_price": [],
+      "thum_poster": "0",
+      "thum_poster_type": "",
+      "addon": [],
+      "variants": [],
+      "variant_option": [],
+      "extend": {
+        "combo_price": "",
+        "vnpay_price": "0",
+        "showroom_price": "",
+        "showroom_price_from_time_date": "",
+        "showroom_price_from_time_minute": "00:00",
+        "showroom_price_to_time_date": "",
+        "showroom_price_to_time_minute": "11:00",
+        "combo_price_from_time_date": "",
+        "combo_price_from_time_minute": "00:00",
+        "combo_price_to_time_date": "",
+        "combo_price_to_time_minute": "00:00",
+        "appay_price": "0",
+        "appay_price_from_time_date": "",
+        "appay_price_from_time_minute": "00:00",
+        "appay_price_to_time_date": "",
+        "appay_price_to_time_minute": "00:00"
+      },
+      "weight": 0,
+      "configurable": "0",
+      "component_count": "0",
+      "promotion_price": null,
+      "deal_list": [],
+      "categories": [
+        {
+          "id": "395",
+          "catPath": ":395",
+          "name": "Laptop - Tablet - Mobile",
+          "url": "/may-tinh-xach-tay-laptop.html"
+        },
+        {
+          "id": "1006",
+          "catPath": ":1006:395",
+          "name": "Laptop Theo H\u00e3ng",
+          "url": "/laptop-theo-hang.html"
+        },
+        {
+          "id": "1013",
+          "catPath": ":1013:1006:395",
+          "name": "Laptop HP",
+          "url": "/laptop-hp_dm1013.html"
+        },
+        {
+          "id": "2369",
+          "catPath": ":2369:2471:1013:1006:395",
+          "name": "Laptop HP 14s",
+          "url": "/laptop-hp-14s_dm2369.html"
+        },
+        {
+          "id": "2471",
+          "catPath": ":2471:1013:1006:395",
+          "name": "HP Ph\u1ed5 Th\u00f4ng",
+          "url": "/laptop-hp-pho-thong.html"
+        },
+        {
+          "id": "2295",
+          "catPath": ":2295:1611:395",
+          "name": "Laptop Intel Evo",
+          "url": "/laptop-intel-evo_dm2295.html"
+        },
+        {
+          "id": "1615",
+          "catPath": ":1615:1611:395",
+          "name": "Laptop Ultrabook Nh\u1ecf G\u1ecdn",
+          "url": "/laptop-nho-gon_dm1615.html"
+        },
+        {
+          "id": "2485",
+          "catPath": ":2485:1611:395",
+          "name": "Laptop H\u1ecdc T\u1eadp V\u0103n Ph\u00f2ng",
+          "url": "/laptop-hoc-tap-van-phong.html"
+        },
+        {
+          "id": "1611",
+          "catPath": ":1611:395",
+          "name": "Laptop Theo Nhu C\u1ea7u",
+          "url": "/tu-van-mua-laptop-chon-laptop-theo-nhu-cau_dm1611.html"
+        },
+        {
+          "id": "2287",
+          "catPath": ":2287:2377:395",
+          "name": "Laptop Core i5",
+          "url": "/laptop-core-i5_dm2287.html"
+        },
+        {
+          "id": "2377",
+          "catPath": ":2377:395",
+          "name": "Laptop Theo C\u1ea5u H\u00ecnh CPU",
+          "url": "/laptop-theo-cau-hinh-cpu_dm2377.html"
+        },
+        {
+          "id": "2461",
+          "catPath": ":2461:2408:395",
+          "name": "VGA T\u00edch H\u1ee3p (intel UHD/Radeon Vega)",
+          "url": "/vga-tich-hop-intel-uhdredeon-vega.html"
+        },
+        {
+          "id": "2408",
+          "catPath": ":2408:395",
+          "name": "Laptop Theo C\u1ea5u H\u00ecnh VGA",
+          "url": "/laptop-theo-cau-hinh-vga.html"
+        },
+        {
+          "id": "2402",
+          "catPath": ":2402:2398:395",
+          "name": "Laptop Kho\u1ea3ng 14 inch",
+          "url": "/laptop-khoang-14-inch_dm2402.html"
+        },
+        {
+          "id": "1613",
+          "catPath": ":1613:2378:395",
+          "name": "Laptop V\u0103n Ph\u00f2ng",
+          "url": "/laptop-van-phong-gia-re_dm1613.html"
+        },
+        {
+          "id": "1612",
+          "catPath": ":1612:2378:395",
+          "name": "Laptop Sinh Vi\u00ean",
+          "url": "/laptop-sinh-vien-gia-re_dm1612.html"
+        },
+        {
+          "id": "1904",
+          "catPath": ":1904:1612:2378:395",
+          "name": "Laptop Cho Sinh Vi\u00ean Kinh T\u1ebf",
+          "url": "/laptop-cho-sinh-vien-kinh-te_dm1904.html"
+        },
+        {
+          "id": "1907",
+          "catPath": ":1907:2378:395",
+          "name": "Laptop Cho K\u1ebf To\u00e1n",
+          "url": "/laptop-cho-ke-toan.html"
+        },
+        {
+          "id": "2388",
+          "catPath": ":2388:2386:395",
+          "name": "Laptop T\u1eeb 10 - 15 Tri\u1ec7u",
+          "url": "/laptop-tu-10-15-trieu_dm2388.html"
+        },
+        {
+          "id": "2386",
+          "catPath": ":2386:395",
+          "name": "Laptop Theo Kho\u1ea3ng Gi\u00e1",
+          "url": "/laptop-theo-khoang-gia_dm2386.html"
+        }
+      ]
+    }
+  ]
+}
