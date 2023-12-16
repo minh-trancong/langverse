@@ -2,13 +2,14 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from openai import OpenAI
 import logging
+import os
 
 class Text(BaseModel):
     text: str
 
 app = FastAPI()
 
-client = OpenAI(api_key='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')
+api_key = os.getenv('OPENAI_API_KEY')
 
 messages = [
     {"role": "system", "content": "Hệ thống tư vấn giữa nhân viên tư vấn tại siêu thị điện máy Thế giới di động và An Phát PC. Chỉ sử dụng những thông tin được cho trong context"},
