@@ -10,6 +10,8 @@ class Text(BaseModel):
 app = FastAPI()
 
 api_key = os.getenv('OPENAI_API_KEY')
+client = OpenAI(api_key=api_key)
+
 
 messages = [
     {"role": "system", "content": "Hệ thống tư vấn giữa nhân viên tư vấn tại siêu thị điện máy Thế giới di động và An Phát PC. Chỉ sử dụng những thông tin được cho trong context"},
