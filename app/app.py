@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from openai import OpenAI
+from fastapi.middleware.cors import CORSMiddleware
 import logging
 import os
 
@@ -8,6 +9,21 @@ class Text(BaseModel):
     text: str
 
 app = FastAPI()
+
+app = FastAPI()
+
+origins = [
+    "https://langverse.minhtc.dev",  # Allow your frontend domain
+    # Add more origins if needed
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 api_key = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=api_key)
