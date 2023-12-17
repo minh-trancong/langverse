@@ -47,6 +47,7 @@ def get_selected_fields():
 
     selected_fields = combined_nearest_neighbors_result[['name', 'price', 'link', 'config', 'promo']]
 
-    print(selected_fields.to_string(index=False))
+    # Convert the DataFrame to a JSON serializable format
+    selected_fields_json = selected_fields.to_dict(orient='records')
 
-    return selected_fields
+    return selected_fields_json
