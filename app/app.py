@@ -35,8 +35,10 @@ messages = [
 async def get_openai_response(item: Text):
     set_input(item.text)
     selected_fields = get_selected_fields()
+    # Convert selected_fields to a string
+    selected_fields_str = str(selected_fields)
+    messages[0] = {"role": "system", "content": selected_fields_str}
     messages.append({"role": "user", "content": item.text})
-    messages.append({"role": "system", "content": selected_fields})
     
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -45,7 +47,7 @@ async def get_openai_response(item: Text):
     messages.append({"role": "assistant", "content": response.choices[0].message.content})
     print(f"Assistant's response: {response.choices[0].message.content}")
     print(f"Messages: {messages}")
-    return {"response": response.choices[0].message.content}
+    return {"response": response.choices[0].message.content, "selected_fields": selected_fields}
 
 @app.get("/api/reset")
 async def reset_messages():
