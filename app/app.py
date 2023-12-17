@@ -5,6 +5,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import logging
 import os
 from searching.embedded_search import get_selected_fields
+from searching.input import set_input
 
 class Text(BaseModel):
     text: str
@@ -32,12 +33,11 @@ messages = [
     {"role": "system", "content": "Hệ thống tư vấn giữa nhân viên tư vấn laptop tại siêu thị điện máy Thế giới di động và An Phát PC. Chỉ sử dụng những thông tin được cho trong context." + selected_fields + " Cần đưa ra đường link tham khảo và chỉ từ thegioididong.com và anphatpc.com.vn"},
 ]
 
-global input
-
 @app.post("/api/")
 async def get_openai_response(item: Text):
     messages.append({"role": "user", "content": item.text})
-    input = item.text
+    set_input(item.text)
+    
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=messages,

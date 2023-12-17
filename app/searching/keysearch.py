@@ -1,6 +1,7 @@
 import cohere
 from app import get_input
 co = cohere.Client('ZdmchLQ5VOe6SOLqVR5JJcqOGCyq2KzBWC4f6bOK')
+from input import get_input
 
 user_input =  get_input()
 
