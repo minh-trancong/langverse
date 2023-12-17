@@ -22,9 +22,10 @@ def perform_search():
         index="laptop",
         body={
             "query": {
-                "match": {
-                    "config": get_search_key()
-                }
+                "should": [
+                    {"match": {"name": "acer 7 giá rẻ"}},
+                    {"match": {"config": "giá rẻ"}}
+                ]
             }, "size":5
         }
     )
