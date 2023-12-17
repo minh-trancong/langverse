@@ -27,16 +27,16 @@ app.add_middleware(
 api_key = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=api_key)
 
-selected_fields = get_selected_fields()
-
 messages = [
-    {"role": "system", "content": "Hệ thống tư vấn giữa nhân viên tư vấn laptop tại siêu thị điện máy Thế giới di động và An Phát PC. Chỉ sử dụng những thông tin được cho trong context." + selected_fields + " Cần đưa ra đường link tham khảo và chỉ từ thegioididong.com và anphatpc.com.vn"},
+    {"role": "system", "content": "Hệ thống tư vấn giữa nhân viên tư vấn laptop tại siêu thị điện máy Thế giới di động và An Phát PC. Chỉ sử dụng những thông tin được cho trong context."},
 ]
 
 @app.post("/api/")
 async def get_openai_response(item: Text):
-    messages.append({"role": "user", "content": item.text})
     set_input(item.text)
+    selected_fields = get_selected_fields()
+    messages.append({"role": "user", "content": item.text})
+    messages.append({"role": "system", "content": selected_fields})
     
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
@@ -55,6 +55,3 @@ async def reset_messages():
     ]
     print(f"Messages: {messages}")   
     return {"status": "Messages reset"}
-
-def get_input():
-    return input
