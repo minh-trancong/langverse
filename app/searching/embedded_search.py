@@ -12,7 +12,7 @@ from searching.elassearch import get_results, get_search_key
 
 warnings.filterwarnings('ignore')
 
-co = cohere.Client("GHkg6Kn1bJWB2G3MX0rHs29BqPPuM3m4fwfxKglr")
+co = cohere.Client("pyEdHfWeakU2lnu05xtTtX8Pnxh73Dhw3EoeJIpb")
 model_name = "embed-multilingual-v3.0"
 input_type_embed = "search_document"
 

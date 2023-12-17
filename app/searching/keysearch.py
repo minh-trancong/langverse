@@ -1,5 +1,5 @@
 import cohere
-co = cohere.Client('ZdmchLQ5VOe6SOLqVR5JJcqOGCyq2KzBWC4f6bOK')
+co = cohere.Client('pyEdHfWeakU2lnu05xtTtX8Pnxh73Dhw3EoeJIpb')
 from searching.input import get_input
 
 user_input =  get_input()
