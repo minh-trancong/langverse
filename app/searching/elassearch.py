@@ -18,13 +18,14 @@ def get_search_key():
 
 def perform_search():
     # Perform the search
+    searchK = get_search_key()
     response = es.search(
         index="laptop",
         body={
             "query": {
                 "should": [
-                    {"match": {"name": "acer 7 giá rẻ"}},
-                    {"match": {"config": "giá rẻ"}}
+                    {"match": {"name": searchK }},
+                    {"match": {"config": searchK }}
                 ]
             }, "size":5
         }
