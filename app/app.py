@@ -36,7 +36,9 @@ async def get_openai_response(item: Text):
     set_input(item.text)
     selected_fields = get_selected_fields()
     # Convert selected_fields to a string
-    selected_fields_str = str(selected_fields)
+    # Truncate selected_fields_str to 1000 characters
+    selected_fields_str = str(selected_fields)[:1000]
+
     messages[0] = {"role": "system", "content": selected_fields_str}
     messages.append({"role": "user", "content": item.text})
     
