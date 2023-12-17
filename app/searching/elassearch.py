@@ -25,7 +25,7 @@ def perform_search():
                 "match": {
                     "config": get_search_key()
                 }
-            }, "size":30
+            }, "size":5
         }
     )
 
@@ -39,7 +39,7 @@ def perform_search():
     print(f"Number of results: {num_results}")
 
     # Extract the 'link' field from each result
-    results = [result['_source'] for result in all_results]
+    results = [result['_source']['link'] for result in all_results]
 
     return results
 

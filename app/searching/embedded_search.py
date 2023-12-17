@@ -43,10 +43,9 @@ def get_selected_fields():
     pd.set_option('display.max_columns', None)
 
     query = search_key
-    combined_nearest_neighbors_result = get_nearest_neighbors_for_combined(query)
+    #combined_nearest_neighbors_result = get_nearest_neighbors_for_combined(query)
 
-    selected_fields = combined_nearest_neighbors_result[['name', 'price', 'link', 'config', 'promo']]
-
+    selected_fields = results
     # Convert the DataFrame to a JSON serializable format
     selected_fields_json = selected_fields.to_dict(orient='records')
 
